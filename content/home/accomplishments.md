@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/HHQ7ARZGVX95?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course"
+  date_start = "2018-07-01"
+  date_end = "2018-09-30"
   description = ""
 
 [[item]]

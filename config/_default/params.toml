@@ -90,7 +90,7 @@ address = {street = "The David Attenborough Building, Pembroke Street", city = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.2037", longitude = "0.11202"}
+coordinates = {latitude = "52.2033", longitude = "0.11964"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

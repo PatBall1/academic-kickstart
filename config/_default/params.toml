@@ -86,18 +86,18 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "The David Attenborough Building, Pembroke Street", city = "Cambridge", region = "CA", postcode = "CB2 3QZ", country = "United Kingdom", country_code = "UK"}
+address = {street = "The David Attenborough Building, Pembroke Street", city = "Cambridge", region = "Cambridgeshire", postcode = "CB2 3QZ", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.2035867", longitude = "0.1181837"}
+coordinates = {latitude = "52.2037", longitude = "0.11202"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Monday 10:00 to 17:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
